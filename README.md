@@ -1,4 +1,4 @@
-- <h1>Hi, I’m @GuilhermeRodrigues2201</h1>
+<h1 color="purple">Hi, I’m @GuilhermeRodrigues2201</h1>
 -  I’m a full stack developer.
 -  I’m currently learning Python
 -  I have knowledges in html, css, python, c# and c++.
