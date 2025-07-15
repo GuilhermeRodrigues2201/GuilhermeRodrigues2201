@@ -23,7 +23,7 @@
 **Development tools**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![PyCharm] (https://img.shields.io/badge/pycharm](https://img.shields.io/python/required-version-toml)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/:packageName)
 <br/>
 
 <a href="https://github.com/iuricode" title="Perfil do Iuri">
