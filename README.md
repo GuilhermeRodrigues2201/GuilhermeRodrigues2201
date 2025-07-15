@@ -7,8 +7,6 @@
 
 ## My skills
 
-**Aplicações e dados**
-
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -22,10 +20,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 
-**Ferramentas de desenvolvimento**
+**Development tools**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![PyCharm](https://img.shields.io/badge/pycharm)
+![PyCharm] (https://img.shields.io/badge/pycharm](https://img.shields.io/python/required-version-toml)
 <br/>
 
 <a href="https://github.com/iuricode" title="Perfil do Iuri">
